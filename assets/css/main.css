@@ -2593,16 +2593,6 @@ input, select, textarea {
 			top: 0.25em;
 		}
 
-		.image.smallfit {
-			display: block;
-			margin: 0 0 2em 0;
-			width: 20%;
-		}
-
-			.image.smallfit img {
-				width: 20%;
-			}
-
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
