@@ -1,0 +1,25 @@
+Anvil Sprite: "Anvil" (https://opengameart.org/content/anvil) by xxgicoxx is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Main Theme: “hard_nes.mp3” (https://freesound.org/s/412080/) by levelplane is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Sword Swing sound: “classic double swwosh .wav” (https://freesound.org/s/19312/) by martian is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Coins sound: “coins 01.wav” (https://freesound.org/s/336570/) by Anthousai is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Enemy hurt sound: “Damage sound effect” (https://freesound.org/s/458867/) by Raclure is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Teleport sound: “Teleport-01a.wav” (https://freesound.org/s/474180/) by DWOBoyle is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Player hurt sound: “Ouch.wav” (https://freesound.org/s/649543/) by ajanhallinta is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Pixel font: “Minimal5x7” (https://fontstruct.com/fontstructions/show/1158293) by “kheftel” is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/3.0/).
+
+Bad anvil swing sound: “Anvil” (https://freesound.org/s/274846/) by MrAuralization is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Good anvil swing sound: “Clank2.wav” (https://freesound.org/s/176227/) by markgia is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Forge Background: “[LPC] Blacksmith” (https://opengameart.org/content/lpc-blacksmith) by bluecarrot16 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Debuff Pop-Up sound: “8-Bit - Time's up!” (https://freesound.org/s/450617/) by Breviceps is licensed under Creative Commons Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Final Boss Theme: “Boss fight” (https://freesound.org/s/721472/) by Victor_Natas is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
